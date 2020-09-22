@@ -1,0 +1,1 @@
+hi there, im learning to be the best programmer. currently trying to understand git and version control. this is chapter1.txt
